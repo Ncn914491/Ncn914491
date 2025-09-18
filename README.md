@@ -1,5 +1,4 @@
-```markdown
-# Hi there, I'm Narisetti Chaitanya Naidu! 👋
+# 🚀 AI & Cybersecurity Explorer | Cloud-Native Innovator | B.Tech CSE @ JNTUK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-narisetti--chaitanya--naidu-blue?logo=linkedin)](https://linkedin.com/in/narisetti-chaitanya-naidu)
 [![GitHub](https://img.shields.io/badge/GitHub-Ncn914491-181717?logo=github)](https://github.com/Ncn914491)
@@ -7,73 +6,126 @@
 
 ---
 
-## 🎓 About Me
+## 👋 About Me
+I’m **Narisetti Chaitanya Naidu**, a 3rd-year **B.Tech CSE student @ JNTU Kakinada (CGPA 8.43)** specializing in the intersection of **AI, Cybersecurity, and Cloud Computing**.  
 
-Motivated 3rd-year B.Tech student in Computer Science & Engineering at Jawaharlal Nehru Technological University, Kakinada (JNTU Kakinada), with a passion for Artificial Intelligence, Generative AI, and building full-stack solutions that solve real problems.
-
-- **CGPA:** 8.43 (Up to 2nd Year)
-- **Seeking:** Internships to contribute to impactful AI/ML research projects
-- **Fun Fact:** I play chess and am an active contributor to tech forums and GenAI hackathons!
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages & Tools:** Python, C, Java (Intermediate), Shell
-- **AI/ML:** Gemini API, Mistral API, scikit-learn, NumPy, Pandas
-- **Cloud & DevOps:** Google Cloud (Vertex AI, Cloud Run, Firestore), Firebase,Supabase
-- **Frontend & Web:** HTML, CSS, JavaScript, Streamlit, Next.js, React, TypeScript, Tailwind
-- **Software Tools:** Git, Docker, Jupyter, Microsoft Office
+- 🧠 Experienced in **building AI-driven applications** with real-world impact (privacy-preserving assistants, healthcare safety, cloud-native security).  
+- 🌩️ Hands-on with **Google Cloud, Vertex AI, and GenAI APIs** to design secure, scalable solutions.  
+- 🎓 Internship at **Edunet Foundation**: delivered a **Sentimental Analysis AI project** and explored **cloud-native security prototypes (SafeHaven & SecureAI ThreatScope)**.  
+- 🪖 **NCC Cadet** (discipline, leadership) & ♟️ **Competitive Chess Player** (strategic thinking).  
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Skills
 
-### 🩺 [Medical Error Prevention](https://github.com/Ncn914491/medical-error-prevention)
-A React + Vite based project scaffold included in the repository — serves as the starting point for a Medical Error Prevention interface and front-end. (Repository README currently contains the Vite + React template; please confirm if you'd like a more detailed project summary pulled from a completed README.)
+### 💻 Programming
+TypeScript, Python, Rust, Dart, JavaScript, PL/pgSQL
 
-### 🎓 [Career Guidance Platform](https://github.com/Ncn914491/careerguidance)
-A comprehensive web application that provides career guidance, educational resources, and interactive features for students and administrators. Features JWT-based authentication with Supabase, role-based access control, a student/admin dashboard, real-time group chat, and an AI-powered career guidance assistant powered by Google Gemini. Built with Next.js, TypeScript, Tailwind CSS and Supabase (PostgreSQL).
+### 🤖 AI / ML
+Generative AI, Multi-LLM Integration, Prompt Engineering, Vertex AI, Gemini API, Streamlit GenAI Apps, Kaggle Prototyping
 
-### 🤖 [Privacy AI Assistant](https://github.com/Ncn914491/privacy-ai-assistant)
-A privacy-focused AI assistant designed to process user requests while preserving data privacy and applying safety filters. (README for this repository was not accessible at the time of this update; the link above points to the repo so you can confirm or update the description.)
+### 🔐 Cybersecurity
+Offensive Security Operations, Security Monitoring, Threat Detection, Linux/Kali Fundamentals, Applied Cybersecurity Concepts
 
-### 💬 [Multi-LLM Chatbot](https://github.com/Ncn914491/chatbot)
-A multi-LLM chatbot web application that supports selecting different LLM providers, real-time chat interface, persistent chat history, and save/clear functionality. The app supports Gemini, Mistral and other providers and includes a Flask web UI plus optional CLI and Tkinter desktop GUI modes.
+### 🌐 Web & Cloud
+Full-Stack Web Development, Cloud-Native Architecture (Google Cloud), API Integrations (Razorpay, Firebase, Supabase)
 
-### 🆘 [SafeHaven - Emergency Alert App](https://github.com/Ncn914491/SafeHaven)
-Cloud-based emergency alert application for broadcasting disaster alerts, SOS functionality with location sharing, suspicious activity reporting, help center locator integration, and secure authentication. Includes Expo web frontend, Express backend support, Tailwind integration, and deployment instructions for Docker / Google Cloud Run.
-
-### 🛰️ [SecureAI Vision](https://github.com/Ncn914491/secureai-vision)
-SecureAI Vision is intended as a vision-based security/analysis project integrating AI vision models for threat detection and analysis. (README for this repository was not accessible at the time of this update; I added a concise placeholder summary and linked the repo so you can provide the official description or confirm.)
+### 🛠 Tools
+GitHub, Docker, Google Cloud Tooling, Vertex AI Studio, Jupyter, Microsoft Office
 
 ---
 
-## 🏅 Certifications & Participation
+## 🔥 Featured Projects
 
-- Microsoft Certified: AI-900 – Azure AI Fundamentals
-- Career Essentials in AI – Microsoft & LinkedIn
-- Generative AI in Data Analytics – JNTUK
-- Google GenAI Exchange Program – 15+ labs
-- Microsoft AI Skills Fest – 15+ modules
+### 🔹 [Privacy AI Assistant](https://github.com/Ncn914491/privacy_ai_assistant)
+- 🎯 Privacy-preserving assistant to help users manage sensitive information securely with LLMs.  
+- 🛠 Stack: TypeScript, Python, Multi-LLM Integration, Vertex AI, Gemini API.  
+- 🚀 Built for the **Google Gemma 3n Impact Challenge (Kaggle)**.  
+
+### 🔹 [Medical Error Prevention](https://github.com/Ncn914491/medical-error-prevention)
+- 🎯 AI-assisted error detection system to reduce risks in healthcare.  
+- 🛠 Stack: React, Vite, AI/ML Pipelines.  
+- 🚀 Developed during the **LablabAI “Raise Your Hack” Hackathon**.  
+
+### 🔹 [DevGuard AI](https://github.com/Ncn914491/devguard-ai-copilot)
+- 🎯 AI Copilot to enhance **developer productivity** and **team communication security**.  
+- 🛠 Stack: Dart, CI/CD workflows, Cloud integrations.  
+- 🚀 Presented at **Code with Kiro Hackathon**.  
+
+### 🔹 [Career Guidance Platform](https://github.com/Ncn914491/careerguidance)
+- 🎯 AI-powered platform offering **career recommendations**, **resources**, and **role-based dashboards**.  
+- 🛠 Stack: Next.js, TypeScript, Tailwind, Supabase (PostgreSQL), Gemini API.  
+- 🚀 Portfolio project to bridge education with AI.  
+
+### 🔹 [Multi-LLM Chatbot](https://github.com/Ncn914491/chatbot)
+- 🎯 Chat system with **cross-provider LLM routing** (Gemini, Mistral, others).  
+- 🛠 Stack: Python, Flask, Tkinter, CLI + Web UIs.  
+- 🚀 Showcases **interoperable AI chat experiences**.  
+
+### 🔹 [SafeHaven](https://github.com/Ncn914491/SafeHaven)
+- 🎯 **Emergency alert app** with SOS, suspicious activity reporting, and location sharing.  
+- 🛠 Stack: Expo frontend, Express backend, Google Cloud Run, Docker.  
+- 🚀 Prototyped as part of internship explorations.  
+
+### 🔹 SecureAI Vision / ThreatScope
+- 🎯 AI-driven **threat detection & analysis** using cloud-deployed models.  
+- 🛠 Stack: Google Cloud AI Vision, Threat Detection APIs.  
+- 🚀 Research prototype under **internship + cloud exploration work**.  
+
+### 🔹 Sentimental Analysis (Internship)
+- 🎯 Analyzed text sentiment for business intelligence.  
+- 🛠 Stack: Generative AI, Python, ML Toolkits.  
+- 🚀 Delivered during **Edunet Foundation Internship**.  
+
+### 🔹 [Razorpay Integration](https://github.com/Ncn914491/article-platform)
+- 🎯 Implemented **secure payment gateway** in a content platform.  
+- 🛠 Stack: TypeScript, Razorpay APIs.  
+- 🚀 Validated full-stack **fintech integration**.  
 
 ---
 
-## 🌱 Hobbies & Interests
-
-- Exploring emerging technologies in **AI & Cybersecurity**
-- Playing chess on Chess.com
-- Contributing to forums and participating in GenAI hackathons
-
----
-
-## 📫 Let's Connect!
-
-- Email: chaitanyanaidunarisetti@gmail.com
-- LinkedIn: [narisetti-chaitanya-naidu](https://linkedin.com/in/narisetti-chaitanya-naidu)
-- GitHub: [Ncn914491](https://github.com/Ncn914491)
+## 🏁 Hackathons
+- 🏆 **Google Gemma 3n Impact Challenge (Kaggle)** → Privacy AI Assistant  
+- 🏆 **LablabAI Raise Your Hack Hackathon** → Medical Error Prevention  
+- 🏆 **Code with Kiro Hackathon** → DevGuard AI  
 
 ---
 
-_Always open to collaborating on interesting projects or discussing the latest in tech!_
-```
+## 🎓 Internship
+**Edunet Foundation (Jun–Jul 2025, Remote)**  
+- Delivered **Sentimental Analysis project** using Generative AI.  
+- Prototyped **SafeHaven** and **SecureAI ThreatScope** (cloud-based security AI).  
+
+---
+
+## 🏅 Certifications (35+)
+**Microsoft**  
+- AI-900: Azure AI Fundamentals  
+- Career Essentials in Cybersecurity  
+- Career Essentials in Generative AI  
+- AI Skills Fest (15+ modules, 2 curated collections)  
+
+**Google Cloud**  
+- GenAI Exchange (20+ labs, 5 skill badges)  
+- Vertex AI, Gemini API, Streamlit GenAI Apps, Prompt Design, Responsible AI  
+
+**Cisco** – Intro to Cybersecurity  
+**TCM Security** – Linux 100 (Kali)  
+**Cybrary** – Offensive Security Operations  
+**Forage** – Cybersecurity Analyst Simulation  
+**LinkedIn** – Cybersecurity Foundations, Intro to AI, Microsoft Security Copilot  
+**Freedom With AI** – AI Masterclass  
+**JNTU Kakinada** – Generative AI for Data Analytics  
+
+---
+
+## 🏆 Achievements
+- 🪖 **NCC Cadet** → Discipline, leadership, and team coordination.  
+- ♟️ **Competitive Chess Player** → Strategic thinking & problem-solving mindset.  
+
+---
+
+## 📫 Contact
+- 🔗 [LinkedIn](https://linkedin.com/in/narisetti-chaitanya-naidu)  
+- 🖥 [GitHub](https://github.com/Ncn914491)  
+- 📧 [Email](mailto:chaitanyanaidunarisetti@gmail.com)  
