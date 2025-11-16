@@ -16,7 +16,7 @@ I’m **Narisetti Chaitanya Naidu**, a 3rd-year **B.Tech CSE student @ JNTU Kaki
 ---
 
 ## 🧰 Skills
-**Programming:** TypeScript, Python, Rust, Dart, JavaScript, PL/pgSQL  
+**Programming:** TypeScript, Python, Dart, JavaScript, PL/pgSQL  
 **AI / ML:** Generative AI, Multi-LLM Integration, Prompt Engineering, Vertex AI, Gemini API, Streamlit Apps  
 **Cybersecurity:** Threat Detection, Security Monitoring, Offensive Security Ops, Linux/Kali Fundamentals  
 **Web & Cloud:** Full-Stack Dev, Cloud-Native Architecture (Google Cloud), API Integrations (Razorpay, Supabase, Firebase)  
@@ -76,9 +76,7 @@ I’m **Narisetti Chaitanya Naidu**, a 3rd-year **B.Tech CSE student @ JNTU Kaki
 
 ## 🎓 Internship
 **Edunet Foundation (Jun–Jul 2025, Remote)**  
-- Delivered **Sentiment Analysis Pipeline**.  
-- Explored **SafeHaven** & **SecureAI ThreatScope** (cloud-native prototypes).  
-
+- Delivered **Sentiment Analysis Pipeline**.
 ---
 
 ## 🏅 Certifications (35+)
