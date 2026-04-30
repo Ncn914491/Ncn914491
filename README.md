@@ -19,8 +19,6 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
  I focus on:
 - 📱 **Android development** with Kotlin & Jetpack Compose
 - 🤖 **AI integration** (LLMs, Gemini API, prompt engineering)
-- 🔓 **Open-source contributions** (Catrobat, IntelOwl)
-
 ---
 
 ## 🎯 Featured Products
@@ -29,7 +27,7 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 *Native Android PDF utility suite with 20+ offline tools*
 - **Features:** PDF splitting, merging, compression, OCR, watermarking, image-to-PDF, HTML conversion
 - **Tech Stack:** Kotlin, Android Studio, Material Design 3, Apache PDFBox
-- **Impact:** 100+ users, featured in HowToMen YouTube (8.8L subscribers), F-Droid approved
+- **Impact:** 4000+ users, featured in HowToMen YouTube (8.8L subscribers), F-Droid approved
 - **GitHub:** [Karna14314/Pdf_Tools](https://github.com/Karna14314/Pdf_Tools)
 - **Play Store:** [PDF Toolkit](https://play.google.com/store/apps/details?id=com.yourname.pdftoolkit)
 
@@ -77,7 +75,7 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 
 ## 🏢 Experience
 
-### **Infosys Springboard Internship** *(Feb 2026 – April 2026)*
+### **Infosys Springboard Internship** *(Feb 2026 – Mar 2026)*
 **AI Research Analyst** — Built PaperIQ, an AI-driven document intelligence platform leveraging Gemini API and FAISS for semantic search across research papers. Implemented RAG pipeline, Streamlit UI, and production deployment on Render.
 
 ### **Edunet Foundation** *(Jun – Jul 2025)*
