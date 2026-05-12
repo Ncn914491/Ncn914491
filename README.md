@@ -23,11 +23,11 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 
 ## 🎯 Featured Products
 
-### **🏆 PDF Toolkit** → 250+ GitHub Stars
+### **🏆 PDF Toolkit** → 300+ GitHub Stars
 *Native Android PDF utility suite with 20+ offline tools*
 - **Features:** PDF splitting, merging, compression, OCR, watermarking, image-to-PDF, HTML conversion
 - **Tech Stack:** Kotlin, Android Studio, Material Design 3, Apache PDFBox
-- **Impact:** 4000+ users, featured in HowToMen YouTube (8.8L subscribers)
+- **Impact:** 5000+ users, featured in HowToMen YouTube (8.8L subscribers)
 - **GitHub:** [Karna14314/Pdf_Tools](https://github.com/Karna14314/Pdf_Tools)
 - **Play Store:** [PDF Toolkit](https://play.google.com/store/apps/details?id=com.yourname.pdftoolkit)
 
@@ -94,7 +94,7 @@ JNTU Kakinada | CGPA: 8.28 | Expected: May 2026
 
 ## 🏆 Achievements & Recognition
 
-✅ **290+ GitHub Stars** — PDF Toolkit featured in tech communities  
+✅ **300+ GitHub Stars** — PDF Toolkit featured in tech communities  
 ✅ **Google Play Store** — Multiple published apps with 5K+ active installs  
 ✅ **HowToMen YouTube Feature** — PDF Toolkit featured in "Top 15 Best Android Apps" (8.8L subscribers)  
 ✅ **NCC 'C' Certificate** — Leadership & discipline certification  
