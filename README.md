@@ -1,132 +1,302 @@
-# Hi, I'm Chaitanya Naidu 👋
+<h1 align="center">Hi 👋, I'm Chaitanya Naidu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00897B&center=true&vCenter=true&width=700&lines=Android+Developer+%26+AI+Engineer;Building+Karna+D[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00B894&center=true&vCenter=true&width=900&lines=Android+Engineer;AI+Application+Developer;Founder+of+Karna+Digital;Building+Privacy-First+Apps;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/narisetti-chaitanya-naidu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:chaitanyanaidunarisetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/Karna14314"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://play.google.com/store/apps/dev?id=5961610091833416915"><img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"></a>
-  <a href="https://huggingface.co/ncncomplete"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
+  <a href="https://play.google.com/store/apps/dev?id=5961610091833416915">
+    <img src="https://img.shields.io/badge/Google_Play-Karna_Digital-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/narisetti-chaitanya-naidu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chaitanyanaidunarisetti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/ncncomplete">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Karna14314">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **4th-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) building intelligent Android applications at **Karna Digital** — my personal indie developer brand. I combine mobile [...]
- I focus on:
-- 📱 **Android development** with Kotlin & Jetpack Compose
-- 🤖 **AI integration** (LLMs, Gemini API, prompt engineering)
----
+I'm a **B.Tech Computer Science (Honours)** student at **JNTU Kakinada** and the founder of **Karna Digital**, where I build modern Android applications, AI-powered software, and open-source projects.
 
-## 🎯 Featured Products
+I enjoy creating products that are:
 
-### **🏆 PDF Toolkit** → 350+ GitHub Stars
-*Native Android PDF utility suite with 20+ offline tools*
-- **Features:** PDF splitting, merging, compression, OCR, watermarking, image-to-PDF, HTML conversion
-- **Tech Stack:** Kotlin, Android Studio, Material Design 3, Apache PDFBox
-- **Impact:** 5000+ users, featured in HowToMen YouTube (8.8L subscribers)
-- **GitHub:** [Karna14314/Pdf_Tools](https://github.com/Karna14314/Pdf_Tools)
-- **Play Store:** [PDF Toolkit](https://play.google.com/store/apps/details?id=com.yourname.pdftoolkit)
+- 📱 Native Android First
+- 🤖 AI Powered
+- 🔒 Privacy Focused
+- ⚡ Offline First
+- 🚀 Production Ready
+
+My long-term goal is to build software used by millions of people while contributing meaningful open-source projects to the Android and AI communities.
 
 ---
 
-### **📄 PaperIQ** (Infosys Internship)
-*AI research paper analysis platform with semantic search and RAG*
-- **Features:** PDF parsing, FAISS vector search, multi-document Q&A, Gemini API integration
-- **Tech Stack:** Python, Streamlit, Gemini API, pdfplumber, FAISS
-- **GitHub:** [https://github.com/Karna14314/PaperIQ_Research-Paper-Analysis.git](https://github.com/Karna14314/PaperIQ_Research-Paper-Analysis.git)
+# ⚡ Engineering Focus
+
+```text
+Android Development      ████████████████████ 95%
+AI & LLM Applications    ██████████████████░ 90%
+Open Source              █████████████████░░ 88%
+Flutter Development      ████████████████░░░ 82%
+Backend Development      ███████████████░░░░ 75%
+System Design            ██████████████░░░░░ 72%
+Cloud Technologies       ████████████░░░░░░░ 65%
+UI / UX Design           ███████████░░░░░░░░ 58%
+```
 
 ---
 
-## 💻 Tech Stack
+# 🏆 Featured Projects
 
-**Languages**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+### 📄 PDF Toolkit
 
-**Mobile Development**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+A production-ready offline PDF toolkit built for Android.
 
-**AI & LLMs**  
-![Gemini API](https://img.shields.io/badge/Gemini_API-8F7EFF?style=flat&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-FF69B4?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+**Highlights**
 
-**Backend & Cloud**  
-![Python](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+- ⭐ 350+ GitHub Stars
+- 📱 Published on Google Play
+- 👥 Thousands of users
+- 🎥 Featured by HowToMen
+- 🔒 100% Offline Processing
 
-**Tools & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Tech**
+
+`Kotlin` • `Material 3` • `Apache PDFBox` • `ML Kit`
 
 ---
 
-## 🏢 Experience
+### 🤖 PaperIQ
 
-### **Infosys Springboard Internship** *(Feb 2026 – Mar 2026)*
-**AI Research Analyst** — Built PaperIQ, an AI-driven document intelligence platform leveraging Gemini API and FAISS for semantic search across research papers. Implemented RAG pipeline, Streaml[...]
+An AI-powered research assistant developed during the Infosys Springboard Internship.
 
-### **Edunet Foundation** *(Jun – Jul 2025)*
-**ML & Security Intern** — Developed ML pipelines for threat detection, explored enterprise security tools (SafeHaven, SecureAI ThreatScope), and built proof-of-concepts for anomaly detection sy[...]
+**Features**
 
----
+- Semantic Search
+- Multi-document Q&A
+- Retrieval-Augmented Generation (RAG)
+- Gemini API Integration
+- Vector Search with FAISS
 
-## 🎓 Education
+**Tech**
 
-**B.Tech Computer Science & Engineering (Honours)**  
-JNTU Kakinada | CGPA: 8.28 | Expected: May 2027
-
-**Relevant Coursework:** Data Structures, Database Systems, Operating Systems, Machine Learning, Deep Learning, Social Networks, Cloud Computing
-
----
-
-## 🏆 Achievements & Recognition
-
-✅ **350+ GitHub Stars** — PDF Toolkit featured in tech communities  
-✅ **Google Play Store** — Multiple published apps with 5K+ active installs  
-✅ **HowToMen YouTube Feature** — PDF Toolkit featured in "Top 15 Best Android Apps" (8.8L subscribers)  
-✅ **NCC 'C' Certificate** — Leadership & discipline certification  
+`Python` • `Gemini API` • `FAISS` • `Streamlit`
 
 ---
 
+### 🎮 Karna Digital
 
-## 📚 Currently Learning
+Building modern Android apps, productivity tools, AI applications, and mobile games focused on performance, simplicity, and user privacy.
 
-- Advanced LLM prompt engineering & RAG systems
-- Android Performance Optimization & Memory Management
-- Kubernetes & Cloud Native Architecture
-- Conversational AI with Claude & Multi-Modal Models
+Current public apps include:
 
----
-## 🤝 Let's Connect
-
-I'm always interested in:
-- 🚀 Collaborating on open-source Android/AI projects
-- 💬 Discussing LLM integrations and AI workflows
-- 🎯 Exploring placement opportunities in AI/Mobile development
-- 📱 Shipping products that solve real problems
-
-**Reach out:** [LinkedIn](https://linkedin.com/in/narisetti-chaitanya-naidu) | [Email](mailto:chaitanyanaidunarisetti@gmail.com) | [HuggingFace](https://huggingface.co/ncncomplete) | [Play Store Developer](https://play.google.com/store/apps/dev?id=5961610091833416915)
+- 📄 PDF Toolkit
+- ♟️ Chess Master
+- 🧩 Sudoku Block Puzzle
+- 📚 More projects coming soon...
 
 ---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,ts,cpp,c" />
+</p>
+
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=android,flutter" />
+</p>
+
+- Jetpack Compose
+- Material Design 3
+- Android SDK
+- XML
+- Room Database
+
+---
+
+## AI & Machine Learning
+
+- Google Gemini API
+- Vertex AI
+- LangChain
+- FAISS
+- ML Kit
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## Backend & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,gcp,flask,postgres,docker" />
+</p>
+
+---
+
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,androidstudio,figma" />
+</p>
+
+---
+
+# 💼 Experience
+
+### 🤖 AI Research Analyst Intern
+
+**Infosys Springboard**
+
+- Built PaperIQ
+- Implemented RAG pipeline
+- Integrated Gemini API
+- Developed semantic document search
+- Built production-ready Streamlit application
+
+---
+
+### 🛡️ ML & Security Intern
+
+**Edunet Foundation**
+
+- Machine Learning Pipelines
+- Cybersecurity Research
+- Threat Detection
+- AI Security Applications
+
+---
+
+# 📈 Journey
+
+```text
+2024
+│
+├── Android Development
+├── Open Source Journey
+│
+2025
+│
+├── ML & Security Internship
+├── Published Android Apps
+├── PDF Toolkit Growth
+│
+2026
+│
+├── Infosys AI Internship
+├── PaperIQ
+├── Karna Digital
+├── AI Applications
+└── Multiple Production Apps
+```
+
+---
+
+# 🏅 Highlights
+
+- ⭐ 350+ GitHub Stars
+- 📱 Multiple Production Android Apps
+- 🚀 Founder of Karna Digital
+- 🤖 Android + AI Developer
+- 🎥 Featured by HowToMen
+- 🏆 Open Source Contributor
+- 🎖 NCC 'C' Certificate
+
+---
+
+# 🌱 Currently Building
+
+- 🤖 AI-Powered Android Applications
+- 📱 Privacy-First Productivity Apps
+- 🎮 Flutter Games
+- ⚡ Offline Utilities
+- 🧠 AI Agents & RAG Systems
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karna14314&color=00897B&style=flat-square" alt="Profile Views" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karna14314&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karna14314&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <sub>Building intelligent applications • Open to opportunities • Always learning</sub>
+
+<img src="https://streak-stats.demolab.com?user=Karna14314&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karna14314&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://play.google.com/store/apps/dev?id=5961610091833416915">
+<img src="https://img.shields.io/badge/Google_Play-Karna_Digital-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/narisetti-chaitanya-naidu">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chaitanyanaidunarisetti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/ncncomplete">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Karna14314&label=Profile+Views&color=00B894&style=flat-square"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/Karna14314?style=social"/>
+<img src="https://img.shields.io/github/stars/Karna14314?style=social"/>
+</p>
+
+---
+
+<h3 align="center">
+
+*"Build useful software. Learn continuously. Ship consistently."*
+
+</h3>
+
+<p align="center">
+
+Made with ❤️ in India 🇮🇳
+
+Building the future through **Karna Digital**
+
 </p>
