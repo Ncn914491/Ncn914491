@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) building intelligent Android applications at **Karna Digital** — my personal indie developer brand. I combine mobile engineering with AI to create privacy-first, production-ready apps that ship on Google Play Store.
+I'm a **4th-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) building intelligent Android applications at **Karna Digital** — my personal indie developer brand. I combine mobile engineering with AI to create privacy-first, production-ready apps that ship on Google Play Store.
  I focus on:
 - 📱 **Android development** with Kotlin & Jetpack Compose
 - 🤖 **AI integration** (LLMs, Gemini API, prompt engineering)
@@ -23,7 +23,7 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 
 ## 🎯 Featured Products
 
-### **🏆 PDF Toolkit** → 300+ GitHub Stars
+### **🏆 PDF Toolkit** → 350+ GitHub Stars
 *Native Android PDF utility suite with 20+ offline tools*
 - **Features:** PDF splitting, merging, compression, OCR, watermarking, image-to-PDF, HTML conversion
 - **Tech Stack:** Kotlin, Android Studio, Material Design 3, Apache PDFBox
@@ -86,7 +86,7 @@ I'm a **3rd-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 ## 🎓 Education
 
 **B.Tech Computer Science & Engineering (Honours)**  
-JNTU Kakinada | CGPA: 8.28 | Expected: May 2026
+JNTU Kakinada | CGPA: 8.28 | Expected: May 2027
 
 **Relevant Coursework:** Data Structures, Database Systems, Operating Systems, Machine Learning, Deep Learning, Social Networks, Cloud Computing
 
@@ -94,7 +94,7 @@ JNTU Kakinada | CGPA: 8.28 | Expected: May 2026
 
 ## 🏆 Achievements & Recognition
 
-✅ **300+ GitHub Stars** — PDF Toolkit featured in tech communities  
+✅ **350+ GitHub Stars** — PDF Toolkit featured in tech communities  
 ✅ **Google Play Store** — Multiple published apps with 5K+ active installs  
 ✅ **HowToMen YouTube Feature** — PDF Toolkit featured in "Top 15 Best Android Apps" (8.8L subscribers)  
 ✅ **NCC 'C' Certificate** — Leadership & discipline certification  
