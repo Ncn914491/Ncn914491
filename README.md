@@ -1,13 +1,14 @@
 # Hi, I'm Chaitanya Naidu 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00897B&center=true&vCenter=true&width=700&lines=Android+Developer+%26+AI+Engineer;Building+Karna+Digital;Open+Source+Contributor;B.Tech+CSE+%40+JNTUK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00897B&center=true&vCenter=true&width=700&lines=Android+Developer+%26+AI+Engineer;Building+Karna+D[...]
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/narisetti-chaitanya-naidu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:chaitanyanaidunarisetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/Karna14314"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://play.google.com/store/apps/dev?id=5961610091833416915"><img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"></a>
   <a href="https://huggingface.co/ncncomplete"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 </p>
 
@@ -15,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **4th-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) building intelligent Android applications at **Karna Digital** — my personal indie developer brand. I combine mobile engineering with AI to create privacy-first, production-ready apps that ship on Google Play Store.
+I'm a **4th-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) building intelligent Android applications at **Karna Digital** — my personal indie developer brand. I combine mobile [...]
  I focus on:
 - 📱 **Android development** with Kotlin & Jetpack Compose
 - 🤖 **AI integration** (LLMs, Gemini API, prompt engineering)
@@ -76,10 +77,10 @@ I'm a **4th-year B.Tech CSE (Honours) student at JNTU Kakinada** (CGPA 8.28) bui
 ## 🏢 Experience
 
 ### **Infosys Springboard Internship** *(Feb 2026 – Mar 2026)*
-**AI Research Analyst** — Built PaperIQ, an AI-driven document intelligence platform leveraging Gemini API and FAISS for semantic search across research papers. Implemented RAG pipeline, Streamlit UI, and production deployment on Render.
+**AI Research Analyst** — Built PaperIQ, an AI-driven document intelligence platform leveraging Gemini API and FAISS for semantic search across research papers. Implemented RAG pipeline, Streaml[...]
 
 ### **Edunet Foundation** *(Jun – Jul 2025)*
-**ML & Security Intern** — Developed ML pipelines for threat detection, explored enterprise security tools (SafeHaven, SecureAI ThreatScope), and built proof-of-concepts for anomaly detection systems.
+**ML & Security Intern** — Developed ML pipelines for threat detection, explored enterprise security tools (SafeHaven, SecureAI ThreatScope), and built proof-of-concepts for anomaly detection sy[...]
 
 ---
 
@@ -118,7 +119,7 @@ I'm always interested in:
 - 🎯 Exploring placement opportunities in AI/Mobile development
 - 📱 Shipping products that solve real problems
 
-**Reach out:** [LinkedIn](https://linkedin.com/in/narisetti-chaitanya-naidu) | [Email](mailto:chaitanyanaidunarisetti@gmail.com) | [HuggingFace](https://huggingface.co/ncncomplete)
+**Reach out:** [LinkedIn](https://linkedin.com/in/narisetti-chaitanya-naidu) | [Email](mailto:chaitanyanaidunarisetti@gmail.com) | [HuggingFace](https://huggingface.co/ncncomplete) | [Play Store Developer](https://play.google.com/store/apps/dev?id=5961610091833416915)
 
 ---
 
